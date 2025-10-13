@@ -1,6 +1,6 @@
 # my_project
 
-A new Flutter project.
+模仿Spotify的功能(練習用)
 
 ## Getting Started
 
