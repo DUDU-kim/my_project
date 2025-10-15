@@ -15,7 +15,7 @@
   <li>記住密碼</li>
   <li>忘記密碼</li>
 </ul>
-<hr style="height: 4px; background-color: black; border: none;">
+<hr style="height: 3px; background-color: black; border: none;">
 > 驗證碼
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
