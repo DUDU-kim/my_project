@@ -4,7 +4,7 @@
 
 ## 頁面
 >
-> <div style="border-left: 4px solid #ff0000; padding-left: 10px; margin: 10px 0;">
+<div style="border-left: 4px solid #ff0000; padding-left: 10px; margin: 10px 0;">
   <h4><strong>註冊/登入</strong></h4>
 </div>
 
