@@ -2,9 +2,8 @@
 
 模仿Spotify的功能(練習用)
 
----
-
 ## 頁面
+---
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="400">
 ### 註冊/登入
 #### 功能
