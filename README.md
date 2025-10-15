@@ -7,7 +7,7 @@
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 
-#### 功能
+<h4>功能</h4>
 <ul>
   <li>登入/註冊</li>
   <li>帳密錯誤提示</li>
@@ -15,7 +15,7 @@
   <li>記住密碼</li>
   <li>忘記密碼</li>
 </ul>
----
+<hr style="height: 4px; background-color: black; border: none;">
 > 驗證碼
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
