@@ -21,7 +21,7 @@
 
 ## 📷 用 Markdown 語法插入圖片（最常用）
 
-![Logo](images/logo.png)
+![Logo](images/SignAndLogin.jpg)
 
 > ✅ 簡單明瞭，適合一般用途。
 
