@@ -2,7 +2,7 @@
 
 模仿Spotify的功能(練習用)
 
-## 頁面
+<h2>頁面</h2> 
 > 註冊/登入
 
 <div style="display:flex; align-items:flex-start; gap:20px;">
