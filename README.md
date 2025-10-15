@@ -19,7 +19,7 @@
 
 ## 📷 用 Markdown 語法插入圖片（最常用）
 
-![Logo](images/SignAndLogin.jpg)
+![Logo](images/)
 
 > ✅ 簡單明瞭，適合一般用途。
 
@@ -27,7 +27,7 @@
 
 ## 🎨 用 HTML 控制大小或排版
 
-<img src="images/demo.png" alt="Demo Screenshot" width="400">
+<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="100">
 
 > 📌 可以調整寬度或高度，例如：
 > ```html
