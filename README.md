@@ -3,9 +3,7 @@
 🔴 模仿Spotify的功能(練習用)
 
 ## 頁面
-<div style="border-left: 4px solid #d0d7de; padding-left: 10px; margin: 10px 0;">
-  <strong>註冊/登入</strong>
-</div>
+> **註冊/登入**
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4><strong>✅ 功能</strong></h4>
