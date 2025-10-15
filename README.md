@@ -5,23 +5,15 @@
 ## 頁面
 > 註冊/登入
 
-<table style="border: none;">
-<tr>
-  <td style="border: none;">
-    <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
-  </td>
-  <td style="border: none;">
-    <h4>功能</h4>
-    <ul>
-      <li>忘記密碼</li>
-      <li>搜尋</li>
-      <li>交流</li>
-      <li>音樂庫</li>
-      <li>我的</li>
-    </ul>
-  </td>
-</tr>
-</table>
+<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
+
+功能
+- 忘記密碼
+- 搜尋
+- 交流
+- 音樂庫
+- 我的
+
 
 
 
