@@ -8,7 +8,7 @@
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4>✅ 功能</h4>
 <ul>
-  - **忘記密碼**登入/註冊**
+  - **登入/註冊**
   <li>帳密錯誤提示</li>
   <li>密碼隱藏</li>
   <li>記住密碼</li>
