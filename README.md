@@ -3,7 +3,7 @@
 模仿Spotify的功能(練習用)
 
 <h2>頁面</h2>
---
+---
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="400">
 ### 註冊/登入
 #### 功能
