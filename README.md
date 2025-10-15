@@ -3,7 +3,7 @@
 🔴 模仿Spotify的功能(練習用)
 
 ## 頁面
-> 註冊/登入
+> **註冊/登入**
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4><strong>✅ 功能</strong></h4>
@@ -18,7 +18,7 @@
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <hr style="height: 3px;">
 
-> **驗證碼**
+> 驗證碼
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4><strong>✅ 功能</strong></h4>
