@@ -4,8 +4,8 @@
 
 ## 頁面
 
-<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 > 註冊/登入
+<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 #### 功能
  - 忘記密碼
  - 搜尋
