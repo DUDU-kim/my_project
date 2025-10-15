@@ -7,8 +7,6 @@
   <h3><strong style="color:#000000;">註冊/登入</strong></h3>
 </div>
 
-
-
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4><strong>✅ 功能</strong></h4>
 <ul>
