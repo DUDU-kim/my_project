@@ -4,7 +4,7 @@
 
 ## 頁面
 <div style="border-left: 4px solid #ff0000; padding-left: 10px; margin: 10px 0;">
-  <p style="color:#ff0000; font-weight:bold; font-size:18px;">註冊/登入</p>
+  <p style="color:#000000; font-weight:bold; font-size:18px;">註冊/登入</p>
 </div>
 
 
