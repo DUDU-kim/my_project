@@ -14,6 +14,8 @@
   <li>記住密碼</li>
   <li>忘記密碼</li>
 </ul>
+<h4><strong>✋ 操作</strong></h4>
+<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <hr style="height: 3px; background-color: black; border: none;">
 
 > **驗證碼**
