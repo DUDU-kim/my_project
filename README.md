@@ -4,7 +4,7 @@
 
 ## 頁面
 <blockquote>
-  <p style="font-size: 120%; color: red;">
+  <p style="font-size: 150%; color: red;">
     <b>註冊/登入</b>
   </p>
 </blockquote>
