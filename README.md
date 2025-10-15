@@ -1,6 +1,10 @@
-# my_project
+# 🖼️ my_project
 
 模仿Spotify的功能(練習用)
+
+---
+
+
 
 ## 頁面
 ### 註冊/登入
@@ -11,11 +15,9 @@
  - 音樂庫
  - 我的
 
-# 🖼️ 專案名稱 Project Title
 
-這是一個示範用的 README，展示如何在 GitHub 上放圖片。
 
----
+
 
 ## 📷 用 Markdown 語法插入圖片（最常用）
 
