@@ -5,12 +5,12 @@
 ## 頁面
 > 註冊/登入
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td>
+<td style="border: none; padding: 0;">
   <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 </td>
-<td valign="top">
+  <td style="border: none; padding-left: 20px; vertical-align: top;"
   <h4>功能</h4>
   <ul>
     <li>忘記密碼</li>
