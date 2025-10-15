@@ -4,8 +4,9 @@
 
 ## 頁面
 <div style="border-left: 4px solid #ff0000; padding-left: 10px; margin: 10px 0;">
-  <h3><strong style="color:#000000;">註冊/登入</strong></h3>
+  <p style="color:#ff0000; font-weight:bold; font-size:18px;">註冊/登入</p>
 </div>
+
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4><strong>✅ 功能</strong></h4>
