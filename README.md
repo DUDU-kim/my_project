@@ -5,7 +5,7 @@
 ## 頁面
 <blockquote>
   <p style="font-size: 120%; color: red;">
-    <b>這是被引用的文字，會顯示出 ">" 的效果。</b>
+    <b>註冊/登入</b>
   </p>
 </blockquote>
 
