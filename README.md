@@ -5,7 +5,7 @@
 ## 頁面
 > **註冊/登入**
 
-<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
+<img src="images/SignAndLogin.jpg" alt="靜態展示圖" width="300">
 <h4><strong>✅ 功能</strong></h4>
 <ul>
   <li>登入/註冊</li>
@@ -15,7 +15,7 @@
   <li>忘記密碼</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
-<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
+<img src="images/demo.gif" alt="操作演示動畫" width="300">
 <hr style="height: 3px;">
 
 > **驗證碼**
