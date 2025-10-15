@@ -7,10 +7,10 @@
 
 <table style="border: none;">
 <tr>
-  <td style="border: none; padding: 0;">
+  <td style="border: none;">
     <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
   </td>
-  <td style="border: none; padding-left: 20px; vertical-align: top;">
+  <td style="border: none;">
     <h4>功能</h4>
     <ul>
       <li>忘記密碼</li>
