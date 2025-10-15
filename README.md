@@ -3,6 +3,7 @@
 模仿Spotify的功能(練習用)
 
 <h2>頁面</h2>
+<hr style="height:4px; background-color:black; border:none;">
 ---
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="400">
 ### 註冊/登入
