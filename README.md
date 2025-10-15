@@ -3,9 +3,9 @@
 🔴 模仿Spotify的功能(練習用)
 
 ## 頁面
-<div style="border-left: 4px solid #ff0000; padding-left: 10px; margin: 10px 0;">
-  <span style="color:#ff0000; font-weight:bold; font-size:18px;">註冊/登入</span>
-</div>
+<blockquote>
+    <p>這是被引用的文字，會顯示出 ">" 的效果。</p>
+  </blockquote>
 
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
