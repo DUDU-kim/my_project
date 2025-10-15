@@ -16,10 +16,10 @@
 </ul>
 <hr style="height: 3px; background-color: black; border: none;">
 
-> 驗證碼
+> **驗證碼**
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
-<h4>✅ 功能</h4>
+<h4><strong>✅ 功能</strong></h4>
 <ul>
   <li>登入/註冊</li>
   <li>帳密錯誤提示</li>
