@@ -4,8 +4,12 @@
 
 ## 頁面
 <blockquote>
-  <p style="font-size: 120%; color: red;">
-    <b>這是被引用的文字，會顯示出 ">" 的效果。</b>
+  <p style="font-size: 120%;">
+    <b>
+      <font color="red">
+        這是被引用的文字，會顯示出 ">" 的效果。
+      </font>
+    </b>
   </p>
 </blockquote>
 
