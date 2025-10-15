@@ -4,8 +4,10 @@
 
 ## 頁面
 <blockquote>
-    <p>這是被引用的文字，會顯示出 ">" 的效果。</p>
-  </blockquote>
+  <p style="font-weight: bold; font-size: 120%; color: red;">
+    這是被引用的文字，會顯示出 ">" 的效果。
+  </p>
+</blockquote>
 
 
 <img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
