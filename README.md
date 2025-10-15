@@ -5,6 +5,7 @@
 ---
 
 ## 頁面
+<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="400">
 ### 註冊/登入
 #### 功能
  - 忘記密碼
@@ -27,7 +28,7 @@
 
 ## 🎨 用 HTML 控制大小或排版
 
-<img src="images/SignAndLogin.jpg" alt="Demo Screenshot" width="100">
+
 
 > 📌 可以調整寬度或高度，例如：
 > ```html
