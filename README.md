@@ -16,14 +16,14 @@
 <h4><strong>✋ 操作</strong></h4>
 <table style="margin: 0 auto; border-collapse: collapse;">
   <tr>
-    <td align="center" style="border: 1px solid black; padding: 1px;">
+    <td align="center" style="border: 1px solid black;">
       <strong>註冊 / 登入</strong>
       <hr style="width: 60%; border: 1px solid #000;">
       <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
       <!-- <img src="images/gif/register-login.gif" width="180" alt="註冊與登入示範"><br> -->
       <sub>示範註冊與登入流程</sub>
     </td>
-    <td align="center" style="border: 2px solid black; padding: 20px;">
+    <td align="center" style="border: 2px solid black;">
       <strong>帳密錯誤提示</strong>
       <hr style="width: 60%; border: 1px solid #000;">
       <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
