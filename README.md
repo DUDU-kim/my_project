@@ -14,7 +14,7 @@
   <li>記住密碼</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
-| First Header  | Second Header |
+| 註冊 / 登入  | 帳密錯誤提示 |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
@@ -69,7 +69,7 @@
 - 音樂庫
 - 我的
 
-| First Header  | Second Header |
+| 註冊 / 登入  | 帳密錯誤提示 |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
