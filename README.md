@@ -16,7 +16,7 @@
 <h4><strong>✋ 操作</strong></h4>
 | 註冊/登入 | 帳密錯誤提示 | 密碼隱藏 | 記住密碼 |
 | :---: | :---: | :---: | :---: |
-|       |       |       |       |
+| <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300"> | <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300"> | <img src="images/gif/password-hide.gif" width="180" alt="密碼隱藏示範"><br><sub>點擊切換顯示/隱藏密碼</sub> | <img src="images/gif/remember-me.gif" width="180" alt="記住密碼示範"><br><sub>示範勾選記住我功能</sub> |
 
 <!-- <img src="images/SignAndLogin.gif" alt="操作演示動畫" width="300"> -->
 
