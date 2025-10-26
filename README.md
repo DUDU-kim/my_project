@@ -14,37 +14,9 @@
   <li>記住密碼</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
-| 註冊 / 登入  | 帳密錯誤提示 |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-<table>
-  <tr>
-    <td align="center">
-      <strong>註冊 / 登入</strong>
-      <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
-      <!-- <img src="images/gif/register-login.gif" width="180" alt="註冊與登入示範"><br> -->
-    </td>
-    <td align="center">
-      <strong>帳密錯誤提示</strong>
-      <hr>
-      <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
-      <!-- <img src="images/gif/credential-error.gif" width="180" alt="帳密錯誤提示示範"><br> -->
-    </td>
-    <td align="center">
-      <strong>密碼隱藏</strong>
-      <hr>
-      <img src="images/gif/password-hide.gif" width="180" alt="密碼隱藏示範"><br>
-      <sub>點擊切換顯示/隱藏密碼</sub>
-    </td>
-    <td align="center">
-      <strong>記住密碼</strong>
-      <hr>
-      <img src="images/gif/remember-me.gif" width="180" alt="記住密碼示範"><br>
-      <sub>示範勾選記住我功能</sub>
-    </td>
-  </tr>
-</table>
+| `註冊 / 登入` | `帳密錯誤提示` | `密碼隱藏` | `記住密碼` |
+|              |               |           |            |
+
 <img src="images/SignAndLogin.gif" alt="操作演示動畫" width="300">
 <hr style="height: 3px;">
 
