@@ -18,7 +18,7 @@
 | :---: | :---: | :---: | :---: |
 |       |       |       |       |
 
-<img src="images/SignAndLogin.gif" alt="操作演示動畫。
+<!-- <img src="images/SignAndLogin.gif" alt="操作演示動畫" width="300"> -->
 <hr style="height: 3px;">
 
 > **忘記密碼/驗證碼**
