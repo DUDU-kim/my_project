@@ -41,7 +41,7 @@
 <img src="images/SignAndLogin.gif" alt="操作演示動畫" width="300">
 <hr style="height: 3px;">
 
-> **驗證碼**
+> **忘記密碼/驗證碼**
 
 <img src="images/gif/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4><strong>✅ 功能</strong></h4>
