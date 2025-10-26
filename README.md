@@ -19,7 +19,7 @@
     <td align="center">
       <strong>註冊 / 登入</strong><br>
       <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
-      <img src="images/gif/register-login.gif" width="180" alt="註冊與登入示範">
+      <!-- <img src="images/gif/register-login.gif" width="180" alt="註冊與登入示範"> -->
     </td>
     <td align="center">
       <strong>帳密錯誤提示</strong><br>
