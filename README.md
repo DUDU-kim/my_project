@@ -14,7 +14,7 @@
   <li>記住密碼</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
-<table style="margin: 0 auto; border-collapse: collapse;">
+<table>
   <tr>
     <td align="center">
       <strong>註冊 / 登入</strong><br>
@@ -52,6 +52,43 @@
 <hr style="height: 3px; background-color: black; border: none;">
 
 ## ✋ 操作示範
+
+## ✋ 操作示範
+
+<table style="margin: 0 auto; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: 2px solid black; padding: 6px;">
+      <strong>註冊 / 登入</strong>
+      <hr style="width: 60%; border: 1px solid #000;">
+      <img src="images/gif/register-login.gif" width="180" alt="註冊與登入示範"><br>
+      <sub>示範註冊與登入流程</sub>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 6px;">
+      <strong>帳密錯誤提示</strong>
+      <hr style="width: 60%; border: 1px solid #000;">
+      <img src="images/gif/credential-error.gif" width="180" alt="帳密錯誤提示示範"><br>
+      <sub>錯誤訊息顯示流程</sub>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 6px;">
+      <strong>密碼隱藏</strong>
+      <hr style="width: 60%; border: 1px solid #000;">
+      <img src="images/gif/password-hide.gif" width="180" alt="密碼隱藏示範"><br>
+      <sub>點擊切換顯示/隱藏密碼</sub>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 6px;">
+      <strong>記住密碼</strong>
+      <hr style="width: 60%; border: 1px solid #000;">
+      <img src="images/gif/remember-me.gif" width="180" alt="記住密碼示範"><br>
+      <sub>示範勾選記住我功能</sub>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 6px;">
+      <strong>忘記密碼</strong>
+      <hr style="width: 60%; border: 1px solid #000;">
+      <img src="images/gif/forgot-password.gif" width="180" alt="忘記密碼示範"><br>
+      <sub>重設密碼流程示範</sub>
+    </td>
+  </tr>
+</table>
 
 
 - 忘記密碼
