@@ -24,19 +24,19 @@
     </td>
     <td align="center">
       <strong>帳密錯誤提示</strong>
-      <hr style="width: 60%; border: 1px solid #000;">
+      <hr>
       <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
       <!-- <img src="images/gif/credential-error.gif" width="180" alt="帳密錯誤提示示範"><br> -->
     </td>
-    <td align="center" style="border: 2px solid black; padding: 6px;">
+    <td align="center">
       <strong>密碼隱藏</strong>
-      <hr style="width: 60%; border: 1px solid #000;">
+      <hr>
       <img src="images/gif/password-hide.gif" width="180" alt="密碼隱藏示範"><br>
       <sub>點擊切換顯示/隱藏密碼</sub>
     </td>
-    <td align="center" style="border: 2px solid black; padding: 6px;">
+    <td align="center">
       <strong>記住密碼</strong>
-      <hr style="width: 60%; border: 1px solid #000;">
+      <hr>
       <img src="images/gif/remember-me.gif" width="180" alt="記住密碼示範"><br>
       <sub>示範勾選記住我功能</sub>
     </td>
