@@ -14,7 +14,7 @@
   <li>記住密碼</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
-<table>
+<table cellspacing="0" cellpadding="10">
   <tr>
     <td align="center">
       <strong>註冊 / 登入</strong>
