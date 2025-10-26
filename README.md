@@ -31,7 +31,30 @@
 </ul>
 <hr style="height: 3px; background-color: black; border: none;">
 
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>註冊 / 登入</strong><br>
+      <img src="images/gif/register-login.gif" width="180" alt="註冊與登入示範">
+    </td>
+    <td align="center">
+      <strong>帳密錯誤提示</strong><br>
+      <img src="images/gif/credential-error.gif" width="180" alt="帳密錯誤提示示範">
+    </td>
+    <td align="center">
+      <strong>密碼隱藏</strong><br>
+      <img src="images/gif/password-hide.gif" width="180" alt="密碼隱藏示範">
+    </td>
+    <td align="center">
+      <strong>記住密碼</strong><br>
+      <img src="images/gif/remember-me.gif" width="180" alt="記住密碼示範">
+    </td>
+    <td align="center">
+      <strong>忘記密碼</strong><br>
+      <img src="images/gif/forgot-password.gif" width="180" alt="忘記密碼示範">
+    </td>
+  </tr>
+</table>
 
 - 忘記密碼
 - 搜尋
