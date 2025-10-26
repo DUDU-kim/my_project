@@ -41,12 +41,6 @@
       <img src="images/gif/remember-me.gif" width="180" alt="記住密碼示範"><br>
       <sub>示範勾選記住我功能</sub>
     </td>
-    <td align="center" style="border: 2px solid black; padding: 6px;">
-      <strong>忘記密碼</strong>
-      <hr style="width: 60%; border: 1px solid #000;">
-      <img src="images/gif/forgot-password.gif" width="180" alt="忘記密碼示範"><br>
-      <sub>重設密碼流程示範</sub>
-    </td>
   </tr>
 </table>
 <img src="images/SignAndLogin.gif" alt="操作演示動畫" width="300">
