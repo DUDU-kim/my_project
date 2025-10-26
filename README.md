@@ -2,7 +2,7 @@
 
 🔴 模仿Spotify的功能(練習用)
 
-<font size="20"><strong>頁面</strong></font>
+<h2>頁面</h2>&#8203;
 > **註冊/登入**
 
 <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
