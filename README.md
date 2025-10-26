@@ -17,7 +17,7 @@
 
 | `註冊/登入` | `帳密錯誤提示` | `密碼隱藏` | `記住密碼` |
 | :---: | :---: | :---: | :---: |
-| <img src="images/picture/SignAndLogin.jpg" alt="註冊/登入" width="200"> | <img src="images/picture/SignAndLogin.jpg" alt="帳密錯誤提示" width="200"> | <img src="images/picture/SignAndLogin.jpg" width="200" alt="密碼隱藏"> | <img src="images/picture/SignAndLogin.jpg" width="200" alt="記住密碼"> |
+| <img src="images/picture/SignAndLogin.jpg" alt="註冊/登入" width="300"> | <img src="images/picture/SignAndLogin.jpg" alt="帳密錯誤提示" width="300"> | <img src="images/picture/SignAndLogin.jpg" width="300" alt="密碼隱藏"> | <img src="images/picture/SignAndLogin.jpg" width="300" alt="記住密碼"> |
 
 <hr>
 
