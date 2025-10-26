@@ -12,7 +12,6 @@
   <li>帳密錯誤提示</li>
   <li>密碼隱藏</li>
   <li>記住密碼</li>
-  <li>忘記密碼</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
 <table>
