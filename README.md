@@ -32,10 +32,6 @@
       <strong>記住密碼</strong><br>
       <img src="images/gif/remember-me.gif" width="180" alt="記住密碼示範">
     </td>
-    <td align="center">
-      <strong>忘記密碼</strong><br>
-      <img src="images/gif/forgot-password.gif" width="180" alt="忘記密碼示範">
-    </td>
   </tr>
 </table>
 <img src="images/SignAndLogin.gif" alt="操作演示動畫" width="300">
