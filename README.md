@@ -14,7 +14,11 @@
   <li>記住密碼</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
-<table cellspacing="0" cellpadding="10">
+<div align="center">
+  <strong>註冊 / 登入</strong><br>
+  <img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
+</div>
+<table>
   <tr>
     <td align="center">
       <strong>註冊 / 登入</strong>
