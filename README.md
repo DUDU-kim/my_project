@@ -19,28 +19,26 @@
 | :---: | :---: | :---: | :---: |
 | <img src="images/picture/Sign.jpg" alt="註冊" width="180"> | <img src="images/gif/AccountErrorHint.gif" alt="帳密錯誤提示" width="180"> | <img src="images/gif/HidePassword.gif" width="180" alt="密碼隱藏"> | <img src="images/gif/RememPassword.gif" width="180" alt="記住密碼"> |
 
+
 <hr>
 
-> **忘記密碼 / 驗證碼**
 
-<img src="images/gif/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
+> **忘記密碼 / 驗證碼**
 <h4><strong>✅ 功能</strong></h4>
 <ul>
-  <li>登入/註冊</li>
-  <li>帳密錯誤提示</li>
-  <li>密碼隱藏</li>
-  <li>記住密碼</li>
-  <li>忘記密碼</li>
+  <li>驗證碼傳送</li>
+  <li>驗證碼失效</li>
+  <li>驗證碼重傳</li>
+  <li>重設密碼</li>
 </ul>
-<hr style="height: 3px; background-color: black; border: none;">
+<h4><strong>✋ 操作</strong></h4>
+| `驗證碼傳送` | `驗證碼失效` | `驗證碼重傳` | `重設密碼` |
+| :---: | :---: | :---: | :---: |
+| <img src="images/picture/Sign.jpg" alt="註冊" width="180"> | <img src="images/gif/AccountErrorHint.gif" alt="帳密錯誤提示" width="180"> | <img src="images/gif/HidePassword.gif" width="180" alt="密碼隱藏"> | <img src="images/gif/RememPassword.gif" width="180" alt="記住密碼"> |
 
-## ✋ 操作示範
 
-- 忘記密碼
-- 搜尋
-- 交流
-- 音樂庫
-- 我的
+<hr>
+
 
 
 
