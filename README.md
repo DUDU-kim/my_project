@@ -20,7 +20,9 @@
 | <img src="images/picture/Sign.jpg" alt="註冊" width="180"> | <img src="images/gif/AccountErrorHint.gif" alt="帳密錯誤提示" width="180"> | <img src="images/gif/HidePassword.gif" width="180" alt="密碼隱藏"> | <img src="images/gif/RememPassword.gif" width="180" alt="記住密碼"> |
 
 
+<br>
 <hr>
+<br>
 
 
 > **忘記密碼 / 驗證碼**
