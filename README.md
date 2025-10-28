@@ -23,7 +23,7 @@
 
 <hr>
 
-> **忘記密碼/驗證碼**
+> **忘記密碼 / 驗證碼**
 
 <img src="images/gif/SignAndLogin.jpg" alt="Demo Screenshot" width="300">
 <h4><strong>✅ 功能</strong></h4>
