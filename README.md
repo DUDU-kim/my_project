@@ -6,8 +6,6 @@
 ## 頁面
 
 > **註冊/登入**
-
-<img src="images/picture/SignAndLogin.jpg" alt="靜態展示圖" width="300">
 <h4><strong>✅ 功能</strong></h4>
 <ul>
   <li>註冊</li>
