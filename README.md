@@ -19,7 +19,21 @@
 
 | `註冊` | `帳密錯誤提示` | `密碼隱藏` | `記住密碼` |
 | :---: | :---: | :---: | :---: |
-| <img src="images/gif/Sign.gif" alt="註冊" width="180"> | <img src="images/gif/AccountErrorHint.gif" alt="帳密錯誤提示" width="180"> | <img src="images/gif/HidePassword.gif" width="180" alt="密碼隱藏"> | <img src="images/gif/RememPassword.gif" width="180" alt="記住密碼"> |
+| 
+  <!-- 👇 這是巢狀表格的開始 -->
+  <table border="0" cellspacing="0" cellpadding="0">
+    <!-- 上半格：放第一張圖 -->
+    <tr>
+      <td><img src="images/picture/Sign.jpg" alt="註冊上半部" width="180"></td>
+    </tr>
+    <!-- 下半格：放第二張圖或文字 -->
+    <tr>
+      <td><img src="images/picture/AnotherImage.jpg" alt="註冊下半部" width="180"></td>
+    </tr>
+  </table>
+  <!-- 👆 巢狀表格的結束 -->
+| 
+<img src="images/gif/AccountErrorHint.gif" alt="帳密錯誤提示" width="180"> | <img src="images/gif/HidePassword.gif" width="180" alt="密碼隱藏"> | <img src="images/gif/RememPassword.gif" width="180" alt="記住密碼"> |
 
 <hr>
 
