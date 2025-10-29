@@ -121,4 +121,17 @@
 | :---: | :---: | :---: |
 | <img src="images/gif/Shuffle.gif" alt="隨機撥放" width="180"> | <img src="images/gif/PlaylistRe.gif" alt="歌單循環" width="180"> | <img src="images/gif/SingleRe.gif" alt="單曲循環" width="180"> |
 
+> **大播放器(四)**
+<h4><strong>✅ 功能</strong></h4>
+<ul>
+  <li>從指定歌單加入歌曲</li>
+  <li>從指定歌單移除歌曲</li>
+  <li>查看當前播放順序佇列</li>
+</ul>
+<h4><strong>✋ 操作</strong></h4>
+
+| `從指定歌單加入歌曲` | `從指定歌單移除歌曲` | `查看當前播放順序佇列` |
+| :---: | :---: | :---: |
+| <img src="images/gif/AddSong.gif" alt="從指定歌單加入歌曲" width="180"> | <img src="images/gif/DelSong.gif" alt="從指定歌單移除歌曲" width="180"> | <img src="images/gif/PlayOrderQueue.gif" alt="查看當前播放順序佇列" width="180"> |
+
 
