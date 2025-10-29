@@ -106,6 +106,19 @@
 
 | `短按⏮️切上一首歌` | `短按⏭️切下一首歌` | `長按⏮️每次快退10s` | `長按⏭️每次快進10s` |
 | :---: | :---: | :---: | :---: |
-| <img src="images/gif/PauseAndPlay.gif" alt="暫停、播放" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> |
+| <img src="images/gif/ShortPressPre.gif" alt="短按⏮️切上一首歌" width="180"> | <img src="images/gif/ShortPressNext.gif" alt="短按⏭️切下一首歌" width="180"> | <img src="images/gif/LongPressPre10.gif" alt="長按⏮️每次快退10s" width="180"> | <img src="images/gif/LongPressNext10.gif" alt="長按⏭️每次快進10s" width="180"> |
+
+> **大播放器(三)**
+<h4><strong>✅ 功能</strong></h4>
+<ul>
+  <li>隨機撥放</li>
+  <li>歌單循環</li>
+  <li>單曲循環</li>
+</ul>
+<h4><strong>✋ 操作</strong></h4>
+
+| `隨機撥放` | `歌單循環` | `單曲循環` |
+| :---: | :---: | :---: |
+| <img src="images/gif/Shuffle.gif" alt="隨機撥放" width="180"> | <img src="images/gif/PlaylistRe.gif" alt="歌單循環" width="180"> | <img src="images/gif/SingleRe.gif" alt="單曲循環" width="180"> |
 
 
