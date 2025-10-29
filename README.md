@@ -45,4 +45,15 @@
 
 
 
+> **搜尋**
+<h4><strong>✅ 功能</strong></h4>
+<ul>
+  <li>關鍵字搜尋</li>
+</ul>
+<h4><strong>✋ 操作</strong></h4>
+
+| `關鍵字搜尋` |
+| :---: |
+| <img src="images/gif/VryCodeSend.gif" alt="驗證碼傳送" width="180"> |
+
 
