@@ -55,6 +55,24 @@
 
 | `關鍵字搜尋` |
 | :---: |
-| <img src="images/gif/KeywordsSearch.gif" alt="驗證碼傳送" width="180"> |
+| <img src="images/gif/KeywordsSearch.gif" alt="關鍵字搜尋" width="180"> |
+
+
+<br>
+<hr>
+
+
+
+> **小播放器**
+<h4><strong>✅ 功能</strong></h4>
+<ul>
+  <li>暫停、播放、可調式進度條</li>
+  <li>每首歌匹配不同背景色</li>
+</ul>
+<h4><strong>✋ 操作</strong></h4>
+
+| `暫停、播放、可調式進度條` | `每首歌匹配不同背景色` |
+| :---: | :---: |
+| <img src="images/gif/PauseAndPlay.gif" alt="暫停、播放" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> |
 
 
