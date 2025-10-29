@@ -76,3 +76,36 @@
 | <img src="images/gif/PauseAndPlay.gif" alt="暫停、播放" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> |
 
 
+<br>
+<hr>
+
+
+
+> **大播放器(一)**
+<h4><strong>✅ 功能</strong></h4>
+<ul>
+  <li>可縮回小播放器</li>
+  <li>與小播放器同步</li>
+  <li>可調式進度條</li>
+</ul>
+<h4><strong>✋ 操作</strong></h4>
+
+| `可縮回小播放器` | `與小播放器同步` | `可調式進度條` |
+| :---: | :---: | :---: |
+| <img src="images/gif/ZoomOut.gif" alt="可縮回小播放器" width="180"> | <img src="images/gif/Synchronous.gif" alt="與小播放器同步" width="180"> | <img src="images/gif/ProgressBar.gif" alt="可調式進度條" width="180"> |
+
+> **大播放器(二)**
+<h4><strong>✅ 功能</strong></h4>
+<ul>
+  <li>短按⏮️切上一首歌</li>
+  <li>短按⏭️切下一首歌</li>
+  <li>長按⏮️每次快退10s</li>
+  <li>長按⏭️每次快進10s</li>
+</ul>
+<h4><strong>✋ 操作</strong></h4>
+
+| `短按⏮️切上一首歌` | `短按⏭️切下一首歌` | `長按⏮️每次快退10s` | `長按⏭️每次快進10s` |
+| :---: | :---: | :---: | :---: |
+| <img src="images/gif/PauseAndPlay.gif" alt="暫停、播放" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> | <img src="images/gif/DiffColor.gif" alt="每首歌匹配不同背景色" width="180"> |
+
+
