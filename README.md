@@ -55,6 +55,6 @@
 
 | `關鍵字搜尋` |
 | :---: |
-| <img src="images/gif/VryCodeSend.gif" alt="驗證碼傳送" width="180"> |
+| <img src="images/gif/KeywordsSearch.gif" alt="驗證碼傳送" width="180"> |
 
 
