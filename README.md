@@ -37,7 +37,7 @@
 
 | `驗證碼傳送` | `驗證碼失效` | `驗證碼重傳` | `重設密碼` |
 | :---: | :---: | :---: | :---: |
-| <img src="images/gif/VryCodeSend.gif" alt="驗證碼傳送" width="180"> | <img src="images/picture/VryCodeInvalid.jpg" alt="驗證碼失效" width="180"> | <img src="images/gif/VryCodeResend.gif" width="180" alt="驗證碼重傳"> | <img src="images/gif/RememPassword.gif" width="180" alt="記住密碼"> |
+| <img src="images/gif/VryCodeSend.gif" alt="驗證碼傳送" width="180"> | <img src="images/picture/VryCodeInvalid.jpg" alt="驗證碼失效" width="180"> | <img src="images/gif/VryCodeResend.gif" width="180" alt="驗證碼重傳"> | <img src="images/gif/ResetPassword.gif" width="180" alt="重設密碼"> |
 
 
 <br>
