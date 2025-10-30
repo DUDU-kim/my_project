@@ -133,3 +133,24 @@
 | <img src="images/gif/AddSong.gif" alt="從指定歌單加入歌曲" width="180"> | <img src="images/gif/DelSong.gif" alt="從指定歌單移除歌曲" width="180"> | <img src="images/gif/PlayOrderQueue.gif" alt="查看當前播放順序佇列" width="180"> |
 
 
+<br>
+<hr>
+
+
+
+> **歌單**
+<h4><strong>✅ 功能</strong></h4>
+<ul>
+  <li>創建歌單</li>
+  <li>刪除歌單</li>
+  <li>重新命名歌單</li>
+  <li>刪除歌單中歌曲</li>
+</ul>
+<h4><strong>✋ 操作</strong></h4>
+
+| `創建歌單` | `刪除歌單` | `重新命名歌單` | `刪除歌單中歌曲` |
+| :---: | :---: | :---: | :---: |
+| <img src="images/gif/CreatePlaylist.gif" alt="創建歌單" width="180"> | <img src="images/gif/DelPlaylist.gif" alt="刪除歌單" width="180"> | <img src="images/gif/RenamePlaylist.gif" alt="重新命名歌單" width="180"> | <img src="images/gif/DelPlaylistSong.gif" alt="刪除歌單中歌曲" width="180"> |
+
+
+
