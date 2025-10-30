@@ -97,16 +97,14 @@
 > **大播放器(二)**
 <h4><strong>✅ 功能</strong></h4>
 <ul>
-  <li>短按⏮️切上一首歌</li>
-  <li>短按⏭️切下一首歌</li>
-  <li>長按⏮️每次快退10s</li>
-  <li>長按⏭️每次快進10s</li>
+  <li>短按⏮️/⏭️切歌</li>
+  <li>長按⏮️每次快退10s/⏭️每次快進10s</li>
 </ul>
 <h4><strong>✋ 操作</strong></h4>
 
-| `短按⏮️切上一首歌` | `短按⏭️切下一首歌` | `長按⏮️每次快退10s` | `長按⏭️每次快進10s` |
-| :---: | :---: | :---: | :---: |
-| <img src="images/gif/ShortPressPre.gif" alt="短按⏮️切上一首歌" width="180"> | <img src="images/gif/ShortPressNext.gif" alt="短按⏭️切下一首歌" width="180"> | <img src="images/gif/LongPressPre10.gif" alt="長按⏮️每次快退10s" width="180"> | <img src="images/gif/LongPressNext10.gif" alt="長按⏭️每次快進10s" width="180"> |
+| `短按⏮️/⏭️切歌` | `長按⏮️每次快退10s/⏭️每次快進10s` |
+| :---: | :---: |
+| <img src="images/gif/ShortPress.gif" alt="短按⏮️/⏭️切歌" width="180"> | <img src="images/gif/LongPress.gif" alt="長按⏮️每次快退10s/⏭️每次快進10s" width="180"> |
 
 > **大播放器(三)**
 <h4><strong>✅ 功能</strong></h4>
